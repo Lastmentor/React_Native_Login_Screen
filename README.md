@@ -1,3 +1,7 @@
+# React Native Login Screen
+
+![30184994_788940227961683_404735799_n](https://user-images.githubusercontent.com/23746859/39021554-8cf7428e-4431-11e8-84fd-617c0bbb2a9a.png)
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
